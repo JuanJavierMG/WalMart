@@ -1,0 +1,12 @@
+folium
+numpy
+openpyxl==3.1.2
+pandas==1.5.3
+pdf2pptx==1.0.5
+plotly==5.13.1
+PyMuPDF==1.20.1
+pyparsing==3.0.9
+pyproj==3.5.0
+python-pptx==0.6.21
+waitress
+Flask-Compress==1.10.1
